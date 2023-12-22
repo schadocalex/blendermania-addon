@@ -1,0 +1,3 @@
+[submodule "gbx-py"]
+	path = gbx-py
+	url = https://github.com/schadocalex/gbx-py
